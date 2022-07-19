@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Michael P Williams</title>
     <link>https://clashmt.github.io/</link>
       <atom:link href="https://clashmt.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Michael P Williams</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://clashmt.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <title>Michael P Williams</title>
       <link>https://clashmt.github.io/</link>
     </image>
     
@@ -48,6 +48,22 @@
       <guid>https://clashmt.github.io/project/bari/</guid>
       <description>&lt;p&gt;The crisis of deaths from opioid overdose persists in the United States and Impoverished individuals and those covered by Medicaid are disproportionately affected by the opioid crisis.Despite the availability of efficacious medications for treatment of opioid use disorder, treatment gaps exist. Travel burden and cost are two key barriers to treatment. This work will characterize and understand the state of public transportation travel burden to facilities offering medications for opioid use disorder in the Greater Boston Area.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>\&#34;It fills the glass somewhat\&#34;: Examining the psychosocial gratifications of dating apps for transgender and gender non-conforming individuals during COVID-19</title>
+      <link>https://clashmt.github.io/publication/holmes-it-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://clashmt.github.io/publication/holmes-it-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-level differences in validity of cannabis retailer locations ascertained from online listings and government-maintained state registries</title>
+      <link>https://clashmt.github.io/publication/williams-state-level-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://clashmt.github.io/publication/williams-state-level-2021/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -180,6 +196,30 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title>Natural language processing and content analysis of youth’s social media posts to inform implementation of next generation HIV prevention modalities</title>
+      <link>https://clashmt.github.io/publication/listerud-natural-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://clashmt.github.io/publication/listerud-natural-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Availability of HIV and Hepatitis C testing at drug and alcohol treatment facilities offering medications for opioid use disorder.</title>
+      <link>https://clashmt.github.io/publication/pankowska-availability-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://clashmt.github.io/publication/pankowska-availability-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Association between census block group poverty and geographic accessibility of drug and alcohol treatment facilities accepting Medicaid</title>
+      <link>https://clashmt.github.io/publication/haley-association-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://clashmt.github.io/publication/haley-association-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Slides</title>
       <link>https://clashmt.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -305,22 +345,61 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://clashmt.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://clashmt.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Privacy Policy</title>
+      <link>https://clashmt.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://clashmt.github.io/privacy/</guid>
+      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://clashmt.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://clashmt.github.io/terms/</guid>
+      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Safety Net of Aging in Place: Understanding How Older Adults Construct, Develop, and Maintain Their Social Circles</title>
+      <link>https://clashmt.github.io/publication/wang-safety-2018-1/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://clashmt.github.io/publication/wang-safety-2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Safety Net: How Older Adults Build and Maintain Interpersonal Relationships</title>
+      <link>https://clashmt.github.io/publication/wang-safety-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://clashmt.github.io/publication/wang-safety-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Human Computation Game Scores with Player Rating Systems</title>
+      <link>https://clashmt.github.io/publication/williams-predicting-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://clashmt.github.io/publication/williams-predicting-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engagement Effects of Player Rating System-based Matchmaking for Level Ordering in Human Computation Games</title>
+      <link>https://clashmt.github.io/publication/sarkar-engagement-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://clashmt.github.io/publication/sarkar-engagement-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Human in the Loop Optimization Through Game-Based Experiments</title>
+      <link>https://clashmt.github.io/publication/williams-toward-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://clashmt.github.io/publication/williams-toward-2016/</guid>
+      <description></description>
     </item>
     
     <item>
