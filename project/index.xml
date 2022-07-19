@@ -2,26 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Academic</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://clashmt.github.io/project/</link>
+      <atom:link href="https://clashmt.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://clashmt.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>https://clashmt.github.io/project/</link>
     </image>
     
     <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Neighborhood and digital immersion effects on PrEP adherence in young sexual and gender minorities who have sex with men</title>
+      <link>https://clashmt.github.io/project/f31/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clashmt.github.io/project/f31/</guid>
+      <description>&lt;p&gt;Young sexual and gender minorities who have sex with men (YSGMSM) carry a disproportionate burden of the HIV epidemic in the United States, yet Pre-Exposure Prophylaxis (PrEP) uptake and adherence has been inadequate for these groups. Research into HIV syndemics has illuminated the importance of social and structural factors for HIV risk, yet the research into HIV syndemics for YSGMSM has been limited to individual level survey measures. This research uses multilevel models to explicitly model neighborhood factors to understand the direct relationship between social and structural neighborhood factors and PrEP adherence. Similarly, immersion in digital spaces (e.g., consumption of social media) can influence HIV risk. Despite interventions for PrEP uptake and adherence being increasingly delivered through digital devices, no studies to date have characterized how digital immersion influences PrEP adherence through a digital PrEP intervention. Finally, it has been shown that joining non-digital support groups can mitigate neighborhood factors in YSGMSM and reduce sexual risk behaviors suggesting that a digital PrEP intervention might have the same capability but with greater reach. This research examines how convergent digital and neighborhood factors impact PrEP adherence in YSGMSM by leveraging iTech’s P3 study, an NICHD-funded randomized controlled trial (RCT) to improve PrEP adherence among YSGMSM. This three arm RCT is designed to assess the effectiveness of P3 and P3+ to improve PrEP adherence among 246 16-24 year-old YSGMSM across nine US study sites. The study collects residential zip code, allowing for examination of neighborhood effects on PrEP adherence. Through mentored training in social and structural neighborhood determinants of PrEP adherence in YSGMSM, multi-level models, mediation analysis, causal inference, and professional development activities, this F31 will achieve the following specific aims: 1) Characterize how neighborhood syndemic risk relates to PrEP adherence in YSGSM, 2) Identify how immersion in digital spaces and communities outside P3’s intervention influence engagement inside P3’s intervention, and subsequent PrEP adherence, 3) Determine how the P3 intervention condition attenuates the relationship between syndemic neighborhood and digital immersion factors’ impact on PrEP adherence. These aims will enrich our understanding of how digital and neighborhood factors impact PrEP adherence, a critical step in precision preventative health against HIV for YSGMSM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding spatial access to medications assisted treatment for opioid use disorder</title>
+      <link>https://clashmt.github.io/project/bari/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clashmt.github.io/project/bari/</guid>
+      <description>&lt;p&gt;The crisis of deaths from opioid overdose persists in the United States and Impoverished individuals and those covered by Medicaid are disproportionately affected by the opioid crisis.Despite the availability of efficacious medications for treatment of opioid use disorder, treatment gaps exist. Travel burden and cost are two key barriers to treatment. This work will characterize and understand the state of public transportation travel burden to facilities offering medications for opioid use disorder in the Greater Boston Area.&lt;/p&gt;
 </description>
     </item>
     

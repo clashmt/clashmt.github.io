@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Access | Academic</title>
+    <link>https://clashmt.github.io/tag/access/</link>
+      <atom:link href="https://clashmt.github.io/tag/access/index.xml" rel="self" type="application/rss+xml" />
+    <description>Access</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://clashmt.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Access</title>
+      <link>https://clashmt.github.io/tag/access/</link>
+    </image>
+    
+    <item>
+      <title>Neighborhood and digital immersion effects on PrEP adherence in young sexual and gender minorities who have sex with men</title>
+      <link>https://clashmt.github.io/project/f31/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clashmt.github.io/project/f31/</guid>
+      <description>&lt;p&gt;Young sexual and gender minorities who have sex with men (YSGMSM) carry a disproportionate burden of the HIV epidemic in the United States, yet Pre-Exposure Prophylaxis (PrEP) uptake and adherence has been inadequate for these groups. Research into HIV syndemics has illuminated the importance of social and structural factors for HIV risk, yet the research into HIV syndemics for YSGMSM has been limited to individual level survey measures. This research uses multilevel models to explicitly model neighborhood factors to understand the direct relationship between social and structural neighborhood factors and PrEP adherence. Similarly, immersion in digital spaces (e.g., consumption of social media) can influence HIV risk. Despite interventions for PrEP uptake and adherence being increasingly delivered through digital devices, no studies to date have characterized how digital immersion influences PrEP adherence through a digital PrEP intervention. Finally, it has been shown that joining non-digital support groups can mitigate neighborhood factors in YSGMSM and reduce sexual risk behaviors suggesting that a digital PrEP intervention might have the same capability but with greater reach. This research examines how convergent digital and neighborhood factors impact PrEP adherence in YSGMSM by leveraging iTech’s P3 study, an NICHD-funded randomized controlled trial (RCT) to improve PrEP adherence among YSGMSM. This three arm RCT is designed to assess the effectiveness of P3 and P3+ to improve PrEP adherence among 246 16-24 year-old YSGMSM across nine US study sites. The study collects residential zip code, allowing for examination of neighborhood effects on PrEP adherence. Through mentored training in social and structural neighborhood determinants of PrEP adherence in YSGMSM, multi-level models, mediation analysis, causal inference, and professional development activities, this F31 will achieve the following specific aims: 1) Characterize how neighborhood syndemic risk relates to PrEP adherence in YSGSM, 2) Identify how immersion in digital spaces and communities outside P3’s intervention influence engagement inside P3’s intervention, and subsequent PrEP adherence, 3) Determine how the P3 intervention condition attenuates the relationship between syndemic neighborhood and digital immersion factors’ impact on PrEP adherence. These aims will enrich our understanding of how digital and neighborhood factors impact PrEP adherence, a critical step in precision preventative health against HIV for YSGMSM.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding spatial access to medications assisted treatment for opioid use disorder</title>
+      <link>https://clashmt.github.io/project/bari/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://clashmt.github.io/project/bari/</guid>
+      <description>&lt;p&gt;The crisis of deaths from opioid overdose persists in the United States and Impoverished individuals and those covered by Medicaid are disproportionately affected by the opioid crisis.Despite the availability of efficacious medications for treatment of opioid use disorder, treatment gaps exist. Travel burden and cost are two key barriers to treatment. This work will characterize and understand the state of public transportation travel burden to facilities offering medications for opioid use disorder in the Greater Boston Area.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
